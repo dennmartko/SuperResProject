@@ -1,0 +1,11 @@
+datetime
+imageio
+numpy
+configparser
+tqdm
+astropy
+matplotlib
+tensorflow-gpu
+photutils
+seaborn
+scipy
